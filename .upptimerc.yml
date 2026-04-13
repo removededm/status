@@ -1,6 +1,5 @@
-# Change these first
-owner: removededm # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: removededm
+repo: status
 
 sites:
   - name: RemovedEDM
@@ -11,22 +10,13 @@ sites:
     url: https://editors.removededm.com
     expectedStatusCodes:
     - 403
-#  - name: IPv6 test
-#    url: forwardemail.net
-#    port: 80
-#    check: "tcp-ping"
-#    ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.removededm.com
-  # baseUrl: /your-repo-name
   logoUrl: https://removededm.com/w/img_auth.php/c/c9/Logo.png
+  favicon: https://removededm.com/w/img_auth.php/c/c9/Logo.png
   name: RemovedEDM Status
   navbar:
     - title: Status
       href: /
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  css: ".svelte-jbr799 { display:none; }"
