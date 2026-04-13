@@ -24,8 +24,6 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://removededm.com/w/img_auth.php/c/c9/Logo.png
   name: RemovedEDM Status
-  introTitle: "**RemovedEDM** is a volunteer-powered archival database of audiovisual videos which have been removed from YouTube."
-  introMessage: 
   navbar:
     - title: Status
       href: /
