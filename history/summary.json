@@ -22,19 +22,20 @@
     "url": "https://editors.removededm.com",
     "icon": "https://icons.duckduckgo.com/ip3/editors.removededm.com.ico",
     "slug": "removed-edm-editors",
-    "status": "down",
-    "uptime": "95.01%",
-    "uptimeDay": "89.70%",
-    "uptimeWeek": "95.01%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "95.01%",
-    "time": 2445,
-    "timeDay": 496,
-    "timeWeek": 2445,
-    "timeMonth": 2445,
-    "timeYear": 2445,
+    "status": "up",
+    "uptime": "94.50%",
+    "uptimeDay": "88.58%",
+    "uptimeWeek": "94.50%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "94.50%",
+    "time": 2251,
+    "timeDay": 467,
+    "timeWeek": 2251,
+    "timeMonth": 2251,
+    "timeYear": 2251,
     "dailyMinutesDown": {
-      "2026-04-15": 149
+      "2026-04-16": 1,
+      "2026-04-15": 164
     }
   }
 ]
