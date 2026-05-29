@@ -25,17 +25,17 @@
     "url": "https://editors.removededm.com",
     "icon": "https://icons.duckduckgo.com/ip3/editors.removededm.com.ico",
     "slug": "removed-edm-editors",
-    "status": "down",
-    "uptime": "94.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.93%",
-    "uptimeYear": "94.59%",
-    "time": 598,
-    "timeDay": 44,
-    "timeWeek": 174,
-    "timeMonth": 341,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "94.26%",
+    "uptimeDay": "84.22%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "94.26%",
+    "time": 591,
+    "timeDay": 41,
+    "timeWeek": 157,
+    "timeMonth": 334,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2026-04-15": 164,
       "2026-04-16": 1,
@@ -55,7 +55,8 @@
       "2026-05-07": 107,
       "2026-05-10": 250,
       "2026-05-09": 1440,
-      "2026-05-08": 372
+      "2026-05-08": 372,
+      "2026-05-29": 227
     }
   }
 ]
